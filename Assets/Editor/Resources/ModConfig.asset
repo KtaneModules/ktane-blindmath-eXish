@@ -23,11 +23,11 @@ MonoBehaviour:
     PDF: https://ktane.timwi.de/PDF/Blind%20Math.pdf
 
 
-    Blind Math (blindMathModule) v1.0.0
+    Blind Math (blindMathModule) v1.0.1
 
     Module and Concept by eXish
 
     Twitch Plays supported'
-  version: 1.0.0
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 9ec33395a59ad66418746806101efd0b, type: 3}
